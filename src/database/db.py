@@ -1,5 +1,7 @@
 from src.database.config import supabase
 import bcrypt
+# SUPABASE_URL="https://omonqwdmfxgvzpwgxkai.supabase.co"
+# SUPABASE_PUBLISHABLE_KEY="sb_publishable_1phqxLqTiqedemxhUS7z9A_u_eVNdBG"
 
 
 

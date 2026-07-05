@@ -1,9 +1,9 @@
 import streamlit as st
+from supabase import create_client
 
+print("SUPABASE_URL =", repr(st.secrets["SUPABASE_URL"]))
 
-from supabase import create_client, Client
-
-supabase: Client = create_client(
+supabase = create_client(
     st.secrets["SUPABASE_URL"],
     st.secrets["SUPABASE_PUBLISHABLE_KEY"]
 )
