@@ -15,7 +15,3 @@ dist/
 
 
 
-# SUPABASE_URL=https://omonqwdmfxgvzpwgxkai.supabase.co
-# SUPABASE_PUBLISHABLE_KEY=sb_publishable_1phqxLqTiqedemxhUS7z9A_u_eVNdBG
-# SUPABASE_SECRET_KEY=sb_secret_Uhd47kUbnMJnvg4urgJVqw_DLPMfrkd
-# SUPABASE_JWKS_URL=https://omonqwdmfxgvzpwgxkai.supabase.co/auth/v1/.well-known/jwks.json
